@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nikhillohar
+- 👋 Hello World! Welcome to my Github page.
+- 🙋🏻‍♂️ I am Nikhil
 - 👀 I’m interested in Financial Analyst roles.
 - 🌱 I’m currently learning Python and R programming.
 - 📫 Reach me via LinkedIn. 
