@@ -12,15 +12,18 @@
   ### - Ratio Analysis
   <img width="650" alt="Ratio" src="https://user-images.githubusercontent.com/96493861/150591991-209c2840-478c-4e23-8acb-424657085365.png">
 
-
+  <br>
+  
   ### - Supplier Insights
   <img width="650" alt="Powerbi" src="https://user-images.githubusercontent.com/96493861/150591701-bd3bf4bc-8fa4-4ef2-8fb0-94ced4848c58.png">
 
-
+  <br>
+  
   ### - Ranking system of the Trending Videos on YouTube Canada
   <img width="650" alt="Screen Shot 2022-01-21 at 3 13 48 PM" src="https://user-images.githubusercontent.com/96493861/150594173-ee40d4ce-b65a-407f-801b-29158fef45bd.png">
 
-
+  <br>
+  
   ### - Data Innovation Framework
   https://miro.com/app/board/o9J_l4rAbew=/
 
