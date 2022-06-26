@@ -9,6 +9,11 @@
 
   ## Project Insights
 
+### - Data Visualization
+  <img width="650" alt="Ratio" src="https://user-images.githubusercontent.com/96493861/150591991-209c2840-478c-4e23-8acb-424657085365.png">
+
+  <br>
+
   ### - Ratio Analysis
   <img width="650" alt="Ratio" src="https://user-images.githubusercontent.com/96493861/150591991-209c2840-478c-4e23-8acb-424657085365.png">
 
