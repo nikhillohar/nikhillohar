@@ -10,7 +10,7 @@
   ## Project Insights
 
 ### - Data Visualization
-  <img width="650" alt="Ratio" src="Screen Shot 2022-06-26 at 2.05.02 PM.png">
+  <img width="650" alt="Ratio" src="https://github.com/nikhillohar/Basic-visualization-in-Tableau/blob/main/Screen%20Shot%202022-06-26%20at%202.05.02%20PM.png">
 
   <br>
 
