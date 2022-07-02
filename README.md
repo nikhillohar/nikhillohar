@@ -9,7 +9,7 @@
   #### Google Data Analytics Professional Certified<br>
   <img  src="google-data-analytics-certificate.2.png"  width="400"  height="400" align="center"><br>
   #### Tableau 20 Advanced Training Certified<br>
-  <img  src="certificate.jpeg"  width="400"  height="400" align="center">
+  <img  src="certificate.jpeg"  width="500"  height="400" align="center">
 
   ## Project Insights
 
