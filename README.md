@@ -5,7 +5,8 @@
   #### 👋 I am Nikhil!
   I have created this page to showcase some of my work.<br>
   I am a graduate student studying Finance at Hult International Business School.
-
+  Google Data Analytics Professional Certified
+  <img width="650" src="https://www.credly.com/badges/923f9bf1-2d1f-4844-907e-2debb1aeba36/public_url">
 
   ## Project Insights
 
