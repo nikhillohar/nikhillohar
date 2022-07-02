@@ -6,10 +6,10 @@
   I have created this page to showcase some of my work.<br>
   I am a graduate student studying Finance at Hult International Business School.<br>
   <br>
-  #### <center>Google Data Analytics Professional Certified<br>
+  #### <p align="center">Google Data Analytics Professional Certified<br>
   <img  src="google-data-analytics-certificate.2.png"  width="400"  height="400"><br>
   #### Tableau 20 Advanced Training Certified<br>
-  <img  src="certificate.jpeg"  width="500"  height="400"></center>
+  <img  src="certificate.jpeg"  width="500"  height="400"></p>
 
   ## Project Insights
 
