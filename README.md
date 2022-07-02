@@ -4,11 +4,11 @@
 
   #### 👋 I am Nikhil!
   I have created this page to showcase some of my work.<br>
-  I am a graduate student studying Finance at Hult International Business School.
-  Google Data Analytics Professional Certified
-  <img width="650" src="https://github.com/nikhillohar/google-data-analytics-certificate.2.png">
-[<img  src="google-data-analytics-certificate.2.png"  width="650"  height="650" align="center" style="background-color:white;">]
-
+  I am a graduate student studying Finance at Hult International Business School.<br>
+  Google Data Analytics Professional Certified<br>
+<img  src="google-data-analytics-certificate.2.png"  width="650"  height="650" align="center">
+Tableau 20 Advanced Training Certified<br>
+<img  src="certificate.png"  width="650"  height="650" align="center">
 
   ## Project Insights
 
