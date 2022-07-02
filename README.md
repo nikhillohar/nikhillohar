@@ -6,7 +6,7 @@
   I have created this page to showcase some of my work.<br>
   I am a graduate student studying Finance at Hult International Business School.
   Google Data Analytics Professional Certified
-  <img width="650" src="https://www.credly.com/badges/923f9bf1-2d1f-4844-907e-2debb1aeba36/public_url">
+  <img width="650" src="https://github.com/nikhillohar/google-data-analytics-certificate.2.png">
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="923f9bf1-2d1f-4844-907e-2debb1aeba36" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
