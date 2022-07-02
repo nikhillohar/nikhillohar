@@ -7,8 +7,8 @@
   I am a graduate student studying Finance at Hult International Business School.<br>
   <br>
   #### <p align="center">Google Data Analytics Professional Certified<br>
-  <p align="center"><img  src="google-data-analytics-certificate.2.png"  width="400"  height="400"><br>
-  #### <p align="center">Tableau 20 Advanced Training Certified<br>
+  <p align="center"><img  src="google-data-analytics-certificate.2.png"  width="400"  height="400"><br></p>
+  #### <p align="center">Tableau 20 Advanced Training Certified<br></p>
   <p align="center"><img  src="certificate.jpeg"  width="500"  height="400"></p>
 
   ## Project Insights
