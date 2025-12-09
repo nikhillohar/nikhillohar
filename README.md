@@ -2,9 +2,9 @@
   ### <h1 align="center"><b>Hello World! </h1>
   <p align="center">Welcome to my GitHub page </b></p>
 
-  #### 👋 I am Nikhil!
+  #### 👋Hi, I am Nikhil!
   I have created this page to showcase some of my work.<br>
-  I am a graduate student studying Finance at Hult International Business School.<br>
+  <br>
   <br>
   #### <p align="center">Google Data Analytics Professional Certified<br></p>
   <p align="center"><img  src="google-data-analytics-certificate.2.png"  width="400"  height="400"></p><br>
