@@ -52,12 +52,9 @@
   [<img  src="github.png" align="center"  width="45"  height="45"  style="background-color:black;">][github]
   &nbsp;
   [<img  src="linkedIn.png"  width="45"  height="45" align="center" style="background-color:white;">][linkedin]
-  &nbsp;
-  [<img  src="instagram.svg" width="45" height="45" align="center" style="background-color:white;">][instagram]
   
 [github]:  https://github.com/nikhillohar
-[instagram]:  https://www.instagram.com/nikhil.lohar
-[linkedin]:   https://www.linkedin.com/in/nikhil-lohar
+[linkedin]:   https://www.linkedin.com/in/nikhil-p-lohar
  
 
 <!---
